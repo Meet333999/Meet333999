@@ -80,8 +80,8 @@ class MeetMistry:
 
 > Temporal Fusion Transformer · Gemini API · Ollama LLM · Binance WebSocket
 
-[![Status](https://img.shields.io/badge/STATUS-PUBLISHED-22c55e?style=flat-square&labelColor=0d1117)](https://github.com/Meet333999)
-[![Conference](https://img.shields.io/badge/IEEE-INDIACom_2026-60a5fa?style=flat-square&labelColor=0d1117)](https://github.com/Meet333999)
+[![Status](https://img.shields.io/badge/STATUS-PUBLISHED-22c55e?style=flat-square&labelColor=0d1117)](https://ieeexplore.ieee.org/document/11525790)
+[![Conference](https://img.shields.io/badge/IEEE-INDIACom_2026-60a5fa?style=flat-square&labelColor=0d1117)](https://ieeexplore.ieee.org/document/11525790)
 
 </td>
 <td width="50%">
