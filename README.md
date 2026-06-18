@@ -91,8 +91,8 @@ class MeetMistry:
 
 > PyTorch · OpenCV · Flask · Frame-Level Fake Classification
 
-[![Status](https://img.shields.io/badge/STATUS-PUBLISHED-22c55e?style=flat-square&labelColor=0d1117)](https://github.com/Meet333999)
-[![Copyright](https://img.shields.io/badge/Govt._of_India-COPYRIGHT_CERTIFIED-f59e0b?style=flat-square&labelColor=0d1117)](https://github.com/Meet333999)
+[![Status](https://img.shields.io/badge/STATUS-PUBLISHED-22c55e?style=flat-square&labelColor=0d1117)](https://ieeexplore.ieee.org/document/11115232)
+[![Copyright](https://img.shields.io/badge/Govt._of_India-COPYRIGHT_CERTIFIED-f59e0b?style=flat-square&labelColor=0d1117)](https://drive.google.com/file/d/1D4UdcBgWpUXkjcqvjEhcTavy8zOh2t5B/view?usp=sharing)
 
 </td>
 </tr>
