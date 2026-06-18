@@ -131,7 +131,7 @@ Government of India copyright-certified pipeline for detecting deepfakes at the 
 
 `PyTorch` `OpenCV` `Flask` `Python`
 
-[![View Project](https://img.shields.io/badge/%F0%9F%93%82_REPO-0d1117?style=for-the-badge&logoColor=60a5fa)](https://github.com/Meet333999/deepfake-detection)
+[![View Project](https://img.shields.io/badge/%F0%9F%93%82_REPO-0d1117?style=for-the-badge&logoColor=60a5fa)](https://github.com/Meet333999/deepfake-cnn-detection)
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ Hybrid temporal model — the evolved successor to the CNN baseline, capturing c
 
 `PyTorch` `EfficientNet` `BiLSTM` `Python`
 
-[![View Project](https://img.shields.io/badge/%F0%9F%93%82_REPO-0d1117?style=for-the-badge&logoColor=60a5fa)](https://github.com/Meet333999/efficientnet-bilstm-deepfake)
+[![View Project](https://img.shields.io/badge/%F0%9F%93%82_REPO-0d1117?style=for-the-badge&logoColor=60a5fa)](https://github.com/Meet333999/deepfake-detection-efficientnet-bilstm)
 
 </td>
 <td width="50%">
