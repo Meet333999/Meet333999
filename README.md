@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <!-- HEADER BANNER -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:0a1628,50:111827,75:0a1628,100:0d1117&height=280&section=header&text=MEETKUMAR%20MISTRY&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&desc=COMPUTER%20VISION%20%E2%80%A2%20DEEP%20LEARNING%20%E2%80%A2%20FULL-STACK%20AI&descAlignY=68&descSize=15&descColor=a78bfa)
