@@ -17,7 +17,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-60a5fa?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://meet-mistry.vercel.app)
 [![Email](https://img.shields.io/badge/EMAIL-f43f5e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistrymeet333@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetkumar-mistry)
 [![GitHub](https://img.shields.io/badge/GITHUB-1e293b?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/Meet333999)
 
 </div>
